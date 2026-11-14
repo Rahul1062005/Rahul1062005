@@ -17,7 +17,7 @@ I enjoy turning ideas into working projects, learning new technologies, and impr
 
 Explore my portfolio to see my projects, technical skills, and development journey.
 
-**[Visit My Portfolio](rahul-kumar-portfolio-one.vercel.app)
+**[Visit My Portfolio](https://rahul-kumar-portfolio-one.vercel.app/)**
 
 ---
 
