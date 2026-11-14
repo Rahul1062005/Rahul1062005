@@ -15,6 +15,12 @@ I enjoy turning ideas into working projects, learning new technologies, and impr
 
 ## 🛠️ Technologies & Tools
 
+## 🌐 Portfolio
+
+Explore my portfolio to see my projects, technical skills, and development journey.
+
+**[Visit My Portfolio](https://rahul-portfolio-new.vercel.app/)
+
 **Languages**
 
 JavaScript · TypeScript · Python · C++ · C · Java · Bash
